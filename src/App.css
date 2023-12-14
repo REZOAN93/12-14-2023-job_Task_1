@@ -1,0 +1,17 @@
+*{
+  margin: 0px;
+  font-family: 'Libre Franklin', sans-serif;
+ 
+}
+
+.mainContainer{
+  background-color: hsl(0, 0%, 90%);
+  height: 100vh;
+  padding: 20px;
+}
+.bodyContainer{
+  max-width: 90%;
+  background-color: white;
+  margin: auto;
+  border-radius: 15px;
+}

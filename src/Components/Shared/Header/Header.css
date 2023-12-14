@@ -1,0 +1,25 @@
+#sidebar a.active {
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.945);
+  }
+#sidebar{
+    display: flex;
+    gap: 20px;
+}
+.headerContainer{
+    display: grid;
+    grid-template-columns: 1fr 50%;
+    padding-top: 25px;
+}
+
+.heder2{
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 60px;
+}
+.partOfHeader{
+    display: flex;
+    gap: 10px;
+}

@@ -1,0 +1,15 @@
+.aboutContainer{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 50%;
+    align-items: center;
+}
+.title{
+    font-weight: 800;
+    font-size: 65px;
+    margin-bottom: 20px;
+}
+.description{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
